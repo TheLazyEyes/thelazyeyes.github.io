@@ -1,0 +1,34 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: lazysmoky
+  descr: "Smoky is a laid-back and relaxed individual who finds solace in his own world. He is often seen lounging in his chair, puffing on his pipe and observing the passage of time. Despite facing challenges such as a grumpy neighbor, a distant ex-wife, and loneliness, Smoky maintains his peaceful demeanor. He values his loyal feline companion and cherishes their bond. While he may have experienced setbacks and moments of solitude, Smoky's resilience shines through as he embraces independence and seeks new adventures. With a desire to break free from his haze, he discovers the beauty of life beyond his comfort zone, making memories and embracing the wonders of the world. Smoky's journey highlights the importance of self-discovery, perseverance, and finding contentment in one's own company."
+  demo: https://opensea.io/collection/lazysmoky
+  tags:
+    - tag: PFP
+    - tag: NFT
+    - tag: Etherum
+    - tag: Opensea
+
+- name: TheLazyEyes
+  descr: "It's like looking in the mirror on a Monday morning. As Garfield would say, I hate Mondays so do the LazyEyes!"
+  demo: https://launchmynft.io/collections/7Q3Sc7FoPUb5Dj9ymAzby8HFPHU6ThJaV8hLt29CpanG/QT9ySiEeuWaB2TG8Fndh
+  tags:
+    - tag: PFP
+    - tag: NFT
+    - tag: Solana
+    - tag: LaunchMyNFT
+    
+
